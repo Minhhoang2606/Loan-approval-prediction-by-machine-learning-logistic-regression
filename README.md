@@ -103,6 +103,8 @@ The project follows these steps:
 3. **Feature Importance Visualization:**
    - Use `matplotlib` and `seaborn` to visualize the importance of different features in the model.
 
+![image](https://github.com/user-attachments/assets/7903e4bd-e53d-4a4b-aac3-3e156fbd7bc8)
+
 From the SHAP values plot, we can observe that the credit score is the most important feature in predicting whether your loan will be approved or denied. It's somewhat amusing that after conducting all this analysis, we arrive at a conclusion that aligns with our logical understanding of the data. Naturally, bankers heavily rely on credit scores when deciding whether to approve a loan or not.
 
 We also notice that our target variable is heavily imbalanced. There are several methods to address this disproportionate feature influence:
