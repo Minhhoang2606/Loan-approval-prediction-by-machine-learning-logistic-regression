@@ -1,5 +1,3 @@
-Here's the enhanced README file with the details from the project tutorial:
-
 # Loan Approval Prediction Model
 
 This project aims to build a classification model to predict whether a loan will be approved or denied. The dataset used is a small loan dataset found on Kaggle, containing 61 entries with various features such as age, gender, occupation, educational level, marital status, income, credit score, and loan status. Despite the small size, the steps and processes for building the model remain consistent with larger datasets.
